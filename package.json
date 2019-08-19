@@ -1,0 +1,22 @@
+{
+  "name": "c2c",
+  "version": "1.0.0",
+  "author": "Ice-Hazymoon",
+  "homepage": "https://github.com/Ice-Hazymoon/c2c",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "opencc",
+    "簡繁轉換",
+    "chinese",
+    "简繁转换"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ignore": "^5.1.4",
+    "isbinaryfile": "^4.0.2",
+    "node-opencc": "^2.0.1"
+  }
+}
